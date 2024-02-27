@@ -5,6 +5,7 @@
 ## Tecnologias e Referências
 
 - [C](https://www.learn-c.org/)
+- [shell](https://www.shellscript.sh/)
 - [Libpng](http://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html)
 
 ## Introdução
