@@ -1,6 +1,6 @@
-# Escondendo informações em um arquivo PNG
+# Escondendo informações dentro de um PNG
 
-> Esse projeto tem como objetivo esconder informações dentro de um arquivo PNG
+> Esse projeto tem como objetivo esconder informações dentro de um PNG
 
 ## Tecnologias e Referências
 
@@ -9,7 +9,7 @@
 
 ## Introdução
 
-O projeto tem como objetivo esconder informações dentro de um arquivo PNG. Para isso, foi utilizado como base de referência a biblioteca [Libpng](http://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html). A biblioteca libpng é uma biblioteca de código aberto para ler e escrever arquivos PNG. Ela foi criada para substituir a biblioteca zlib e é usada por muitos programas para manipular arquivos PNG.
+O projeto tem como objetivo esconder informações dentro de um PNG. Para isso, foi utilizado como base de referência a biblioteca [Libpng](http://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html). A biblioteca libpng é uma biblioteca de código aberto para ler e escrever arquivos PNG. Ela foi criada para substituir a biblioteca zlib e é usada por muitos programas para manipular arquivos PNG.
 
 ## Como instalar
 
