@@ -1,6 +1,6 @@
 # Escondendo informações dentro de um PNG
 
-> Esse projeto tem como objetivo esconder informações dentro de um PNG
+> Status do Projeto: Não concluído ⏳
 
 ## Tecnologias e Referências
 
